@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022801037427",
+    "firebase_url": "https://mishwary-ccf73.firebaseio.com",
+    "project_id": "mishwary-ccf73",
+    "storage_bucket": "mishwary-ccf73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022801037427:android:c6798a8699efe8766d0206",
+        "android_client_info": {
+          "package_name": "com.khalej.mishwary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022801037427-u01rf26fqtso68g71eg2csrjs704audn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khalej.mishwary",
+            "certificate_hash": "22fd65c93727d47d3cf5938ca60e08c55096fe37"
+          }
+        },
+        {
+          "client_id": "1022801037427-h89v5l62lnht29a9p03jo55mp7j97du0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiQp50UyCcdny45yVFpGXXQ_BHDyplwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022801037427-h89v5l62lnht29a9p03jo55mp7j97du0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
